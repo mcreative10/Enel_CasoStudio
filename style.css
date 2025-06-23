@@ -1,3 +1,8 @@
+body {
+ font-family:'Calibri', sans-serif;
+ font-size: 18px;
+}
+
 #navbarNav ul li a, .text-footer {
     color: #333;
 }
